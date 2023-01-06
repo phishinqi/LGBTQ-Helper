@@ -35,6 +35,15 @@
 ## MtF HRT 資料
 * 網址：https://docs.hrt.guide/
 
+## MtF 小站
+* 網址：https://mtf.qwq.pink/
+
+## LGBT Discord List
+* 網址：https://lgbtq.discordextremelist.xyz/en-US/
+
+
+
+
 
 # **心理咨詢**
 
