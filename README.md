@@ -29,17 +29,11 @@
 ## MtF指南
 * 網址：https://mtf.party/
 
-## LGBT Foundation
-* 網址：https://lgbt.foundation/
+## LGBTQIA In China
+* 網址：https://github.com/LGBT-CN/LGBTQIA-In-China
 
-## 洛杉磯 LGBT Center
-* 網址：https://lalgbtcenter.org/
-
-## 彩虹之約
-* 網址：https://rainbowcovenant.com.hk/
-
-## 粉紅同盟
-* 網址：https://pinkalliance.hk/
+## MtF HRT 資料
+* 網址：https://docs.hrt.guide/
 
 
 # **心理咨詢**
