@@ -1,5 +1,5 @@
 # LGBTQ-Helper
-一些LGBT相關的心理咨詢
+一些LGBT相關的心理咨詢或網站
 
 # 中国彩虹联盟（CRN，Chinese Rainbow Netword）
 * 收費標准：免費（30分鐘）
