@@ -41,6 +41,11 @@
 ## LGBT Discord List
 * 網址：https://lgbtq.discordextremelist.xyz/en-US/
 
+## 性別煩躁指南
+* 網址：https://genderdysphoria.fyi/zh/
+
+## HRT 指南
+* 網址：https://docs.hrt.guide/menu/#part-8-%E6%8A%97%E9%9B%84%E6%BF%80%E7%B4%A0%E8%8D%AF%E7%89%A9-antiandrogens-%E7%AF%87
 
 
 
